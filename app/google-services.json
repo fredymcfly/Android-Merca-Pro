@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14848353881",
+    "project_id": "mercaprotfg",
+    "storage_bucket": "mercaprotfg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14848353881:android:88c04952606e35beb8b348",
+        "android_client_info": {
+          "package_name": "com.example.merca_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwqnTmxVTMQq4yMxBQGSDFYPBNQRuo97s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
